@@ -3,3 +3,18 @@ other = "Pagina"
 
 [of]
 other = "di"
+
+[subscribe]
+other = "Iscriviti"
+
+[share-this]
+other = "Condividi questo"
+
+[post]
+other = "articolo"
+
+[proudly-generated]
+other = "Orgogliosamente generato da"
+
+[with]
+other = "con"
